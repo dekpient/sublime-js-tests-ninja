@@ -1,0 +1,14 @@
+[
+  {
+    "keys": ["ctrl+super+o"],
+    "command": "toggle_js_exclusive_test"
+  },
+  {
+    "keys": ["shift+ctrl+super+o"],
+    "command": "clear_js_exclusive_tests"
+  },
+  {
+    "keys": ["shift+ctrl+super+r"],
+    "command": "list_js_tests"
+  }
+]

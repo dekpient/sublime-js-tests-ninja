@@ -1,0 +1,14 @@
+[
+  {
+    "command": "toggle_js_exclusive_test",
+    "caption": "JS Tests: Toggle Only"
+  },
+  {
+    "command": "clear_js_exclusive_tests",
+    "caption": "JS Tests: Clear Only Tests"
+  },
+  {
+    "command": "list_js_tests",
+    "caption": "JS Tests: List"
+  }
+]
